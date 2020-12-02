@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5a9e2f-227d-419d-aec8-d6b952979996" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day2/day2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/passwords.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1-part1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/day1-part1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1-part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/day1-part2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +44,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606831392677</updated>
-      <workItem from="1606831394366" duration="6806000" />
+      <workItem from="1606831394366" duration="7323000" />
+      <workItem from="1606921563642" duration="3898000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1606921561068">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="384" key="com.intellij.ide.util.TipDialog/0.23.1792.1097/-1920.63.1920.1057@0.23.1792.1097" timestamp="1606921561068" />
   </component>
 </project>
